@@ -5,12 +5,18 @@ tags:
 - linux
 ---
 ***
-This website is generated in markdown and published to GitHub using 'git'. You are viewing these pages from GitHub.
+This website is written in markdown and published to GitHub using 'git'. 
+
 
 [[On This Day in Linux 1995-06-18]]
 
 [[On This Day in Linux 1995-06-20]]
 
+
+
+
+
+***
 
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
