@@ -1,3 +1,7 @@
+---
+title: "On This Day in Linux 1995-06-18"
+enableToc: false
+---
 This is the first entry from my notebook. I started using Linux in late 1991, not long after Linus Torvalds announced it. I  must have realised that keeping a Changelog was important. Being able to see what changes you made and if it broke  some other software, at least you had a chance of figuring out what had caused the issue.
 ![[Screenshot 2022-10-11 at 23.09.48.jpg]]
 > [!NOTE] Removed ncurses 1.8.6

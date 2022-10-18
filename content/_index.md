@@ -1,5 +1,5 @@
 ---
-title: 🪴 Quartz 3.
+title: "Mikes Pages"
 enableToc: false
 ---
 ***
