@@ -1,8 +1,12 @@
 ---
-title: "Mikes Pages"
+title: "Mikes Testbed"
 enableToc: false
+tags:
+- linux
 ---
 ***
+This website is generated in markdown and published to GitHub using 'git'. You are viewing these pages from GitHub.
+
 [[On This Day in Linux 1995-06-18]]
 
 [[On This Day in Linux 1995-06-20]]
