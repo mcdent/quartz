@@ -5,7 +5,7 @@ enableToc: false
 Test Edit by Mike.
 ***
 
-
+![[Screenshot 2022-10-11 at 23.09.48.jpg]]
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast natural-language [[notes/search]]
