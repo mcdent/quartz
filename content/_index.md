@@ -5,7 +5,7 @@ tags:
 - linux
 ---
 ***
-This website is written in markdown and published to GitHub using 'git'. .
+This website is written in markdown and published to GitHub Pages.
 
 [[On This Day in Linux 1995-06-16]]
 
