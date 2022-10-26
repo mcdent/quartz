@@ -4,6 +4,7 @@ enableToc: true
 ---
 ![[Screenshot 2022-10-26 at 21.11.59.jpg]]
 >[!NOTE] Looks like today was a big release day for TNOS!.
+>
 > TNOS was a program based on another program called NOS. This was written by [Phil Karn, KA9Q](https://en.wikipedia.org/wiki/Phil_Karn). He was a US radio Ham who worked for Bell Labs & Qualcomm I beleive. 
 >Essentially NOS (and TNOS) allowed you to create an IP network with your computer and a special modem  (called a TNC), which interfaced your VHF/UHF radio to your computer. Large networks were created by hobbyists which we used to pass TCP traffic over these links.
 
