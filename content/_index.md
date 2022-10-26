@@ -6,6 +6,7 @@ tags:
 ---
 ***
 This website is written in markdown and published to GitHub Pages.
+Below are some entries from an early `Changelog` or change management notebook I used to keep.
 
 [[On This Day in Linux 1995-06-16]]
 
@@ -16,6 +17,8 @@ This website is written in markdown and published to GitHub Pages.
 [[On This Day in Linux 1995-06-21]]
 
 [[On This Day in Linux 1995-06-25]]
+
+[[On This Day in Linux 1995-07-04]]
 
 
 
