@@ -5,8 +5,9 @@ tags:
 - linux
 ---
 ***
-This website is written in markdown and published to GitHub Pages.
-Below are some entries from an early `Changelog` or change management notebook I used to keep.
+#### This website is written in markdown and published to GitHub Pages.
+
+Below are some entries from an early `Changelog` or change management notebook I used to keep. I am adding to these entries as and when I get time.
 
 [[On This Day in Linux 1995-06-16]]
 
@@ -24,4 +25,4 @@ Below are some entries from an early `Changelog` or change management notebook I
 
 
 
-***
+
