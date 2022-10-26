@@ -1,6 +1,6 @@
 ---
 title: "On This Day in Linux 1995-06-20"
-enableToc: false
+enableToc: true
 ---
 ![[Screenshot 2022-10-12 at 13.56.16.jpg]]
 > [!NOTE] gpm did not seem to function correctly.

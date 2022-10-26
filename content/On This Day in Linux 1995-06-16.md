@@ -1,6 +1,6 @@
 ---
 title: "On This Day in Linux 1995-06-16"
-enableToc: false
+enableToc: true
 ---
 This is the first entry from my notebook. I started using Linux in late 1991, not long after Linus Torvalds announced it. I  must have realised, after a while, that keeping a Changelog was important. Being able to see what changes you made and if they broke  some other software, at least you had a chance of figuring out what had caused the issue. You could say this was an early form of `change management.`
 So below is first the entry written in my A4, hard back, ruled notebook.

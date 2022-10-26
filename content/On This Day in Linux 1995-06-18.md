@@ -1,6 +1,6 @@
 ---
 title: "On This Day in Linux 1995-06-18"
-enableToc: false
+enableToc: true
 ---
 ![[Screenshot 2022-10-11 at 23.09.48.jpg]]
 > [!NOTE] Removed ncurses 1.8.6
