@@ -23,7 +23,7 @@ Below are some entries from an early `Changelog` or change management notebook I
 
 [[On This Day in Linux 1995-07-14]]
 
-[[On This Day in Linux 1995]]
+[[On This Day in Linux 1995-]]
 
 
 
