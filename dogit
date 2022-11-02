@@ -1,5 +1,0 @@
-#!/bin/bash
-echo "Commiting changes to Git...."
-git add .
-git commit -m "Comments go here"
-git push origin hugo
