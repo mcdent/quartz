@@ -27,6 +27,3 @@ Below are some entries from an early `Changelog` or change management notebook I
 
 
 
-
-
-
