@@ -1,6 +1,6 @@
 ---
 title: "Mikes Testbed"
-enableToc: true
+enableToc: false
 tags:
 - linux
 ---
