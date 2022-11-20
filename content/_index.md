@@ -1,6 +1,6 @@
 ---
 title: "Mikes Digital Testbed / Garden."
-enableToc: false
+enableToc: true
 tags:
 - linux
 - Obsidian.md
