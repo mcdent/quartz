@@ -1,5 +1,5 @@
 ---
-title: "Why I Use Obsidian."
+title: "Why I Use Obsidian"
 enableToc: false
 tags:
 - Obsidian.md
