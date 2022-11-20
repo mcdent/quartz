@@ -16,4 +16,4 @@ Below you can see my stack of TNC's to the right of the photo (from around 1996)
 
 
 
-[^1]: The AMPRnet was a large TCP/IP network which predates the public 'Internet' . In 2019 half of the class A network allocation was sold off to Amazon AWS due to a shortage on IPv4 addressing.
+[^1]: The AMPRnet was a large TCP/IP network which predates the public 'Internet' . In 2019 half of the class A network allocation was sold off to Amazon AWS due to a shortage of IPv4 addressing.
