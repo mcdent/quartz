@@ -1,8 +1,10 @@
 ---
-title: "Mikes Testbed"
+title: "Mikes Digital Testbed / Garden"
 enableToc: false
 tags:
 - linux
+- Obsidian.md
+- GitHub
 ---
 ***
 #### This website is written in markdown and published to [GitHub Pages](https://github.com/mcdent).
