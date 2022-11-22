@@ -1,6 +1,6 @@
-baseURL = "https://me.mikedent.me/"
+baseURL = "https://quartz.jzhao.xyz/"
 languageCode = "en-us"
-#googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
