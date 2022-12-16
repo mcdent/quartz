@@ -1,5 +1,5 @@
 ---
-title: "On This Day in Linux 1995-07-23.."
+title: "On This Day in Linux 1995-07-23"
 enableToc: true
 ---
 ![[Screenshot 2022-11-02 at 14.48.16.jpg]]
