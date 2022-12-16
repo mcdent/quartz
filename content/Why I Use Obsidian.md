@@ -24,9 +24,9 @@ Some things that attracted me to Obsidian and made me start using it:-
 It's a place to create a PKM - a Personal Knowledge Management system. A place to record things and remember things. A reference library for your brain.
 I tried using Obsidian first maybe early 2021, however, there was no mobile app back then and it lacked polish and features. I then came across Craft and got distracted. Now, October 2022 I am back with Obsidian - I used it to write these simple web pages.
 
+(you can also produce these really cool graph views which show you the links between your notes.)
 
-
-
+![[Screenshot 2022-12-16 at 21.05.09.jpg]]
 
 
 [^1]: Free software isn't always good. If the developers have no revenue stream for their application, then whats to stop them getting fed up one day and just stopping working on it, or worse still, pull the plug on it. Some of the things which make it work - like cloud storage, sync just stop working. Obsidian does have paid platforms and paid services so they have income, thats good.
