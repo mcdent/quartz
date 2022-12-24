@@ -1,4 +1,5 @@
-baseURL = "https://me.mikedent.me/quartz/"
+# baseURL = "https://me.mikedent.me/quartz/"
+baseURL = "https://mcdent.github.io/quartz/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
