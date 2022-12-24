@@ -26,7 +26,5 @@ I tried using Obsidian first maybe early 2021, however, there was no mobile app 
 
 (you can also produce these really cool graph views which show you the links between your notes.)
 
-![[Screenshot 2022-12-16 at 21.05.09.jpg]]
-
 
 [^1]: Free software isn't always good. If the developers have no revenue stream for their application, then whats to stop them getting fed up one day and just stopping working on it, or worse still, pull the plug on it. Some of the things which make it work - like cloud storage, sync just stop working. Obsidian does have paid platforms and paid services so they have income, thats good.
