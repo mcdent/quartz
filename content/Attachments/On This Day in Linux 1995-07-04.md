@@ -2,7 +2,7 @@
 title: "On This Day in Linux 1995-07-04"
 enableToc: true
 ---
-![[Screenshot 2022-10-26 at 21.11.59.jpg]]
+![[Attachments/Screenshot 2022-10-26 at 21.11.59.jpg]]
 >[!NOTE] Looks like today was a big release day for TNOS!.
 >
 > TNOS was a program based on another program called NOS. This was written by [Phil Karn, KA9Q](https://en.wikipedia.org/wiki/Phil_Karn). He was a US radio Ham who worked for Bell Labs & Qualcomm I beleive. 
@@ -10,7 +10,7 @@ enableToc: true
 
 Below you can see my stack of TNC's to the right of the photo (from around 1996) with the radios they are connected to, to the middle and left.
 
-![[99F32D89-1824-4DF7-83E3-B79341364CC4 1.jpeg|500]]
+![[Attachments/99F32D89-1824-4DF7-83E3-B79341364CC4 1.jpeg|500]]
 
 
 
