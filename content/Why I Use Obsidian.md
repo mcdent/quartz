@@ -25,7 +25,6 @@ It's a place to create a PKM - a Personal Knowledge Management system. A place t
 I tried using Obsidian first maybe early 2021, however, there was no mobile app back then and it lacked polish and features. I then came across Craft and got distracted. Now, October 2022 I am back with Obsidian - I used it to write these simple web pages.
 
 (you can also produce these really cool graph views which show you the links between your notes.)
-![[Attachments/Screenshot 2022-12-24 at 15.50.14 1.jpg]]
 
 ![](Attachments/Screenshot%202022-12-24%20at%2015.50.14%202.jpg)
 
