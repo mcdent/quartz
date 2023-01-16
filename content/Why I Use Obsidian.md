@@ -26,7 +26,7 @@ I tried using Obsidian first maybe early 2021, however, there was no mobile app 
 
 (you can also produce these really cool graph views which show you the links between your notes.)
 
-![](Attachments/Screenshot%202022-12-24%20at%2015.50.14%202.jpg)
+![](Attachments/links_image_cloud.jpg)
 
 
 
