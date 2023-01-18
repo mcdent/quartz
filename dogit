@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Commiting changes to Git...."
+git add .
+git commit -m "Updates to pages etc"
+git push origin hugo
