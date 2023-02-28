@@ -14,3 +14,5 @@ tags:
 
 #### 🤔 [[Why I Use Obsidian|Why I use Obsidian?]]
 - What is Obsidian and why do I use it?..
+
+<a rel="me" href="https://fosstodon.org/@Mcdent">Mastodon</a>
